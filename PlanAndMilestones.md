@@ -11,7 +11,7 @@
 ### Tasks:
 
 Install tools: 
-JDK (e.g., Java 17), Node.js (for React), PostgreSQL, and an IDE (e.g., IntelliJ or VS Code).
+JDK, Node.js (for React), PostgreSQL, and an IDE (VS Code).
 
 Create a Spring Boot project (via Spring Initializr) with dependencies: 
 Spring Web, Spring Data JPA, PostgreSQL Driver, Spring Security.
