@@ -1,6 +1,6 @@
 # Plan and Milestones
 
-( Created Using AI consiering my business to better use my time for productive learning. Changes to be made as I go. )
+( Created Using AI considering my busyness to better use my time for productive learning. Changes to be made as I go. )
 
 
 ## Milestone 1: Setup and Project Skeleton
