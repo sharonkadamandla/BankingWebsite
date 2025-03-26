@@ -138,4 +138,4 @@ Without Azure: ~6 weeks (depending on pace and familiarity).
 
 With Azure: Additional ~1 week for deployment.
 
-Total: 6-7 weeks for a functional prototype.
+Total: ~6-7 weeks for a functional prototype.
